@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WiN11\\Desktop\\30.10.2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15103C52-9D82-23FC-B7D8-E5C8A46A813B}|Assembly-CSharp.csproj|c:\\users\\win11\\desktop\\30.10.2025\\assets\\scripts\\managers\\filemanagerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15103C52-9D82-23FC-B7D8-E5C8A46A813B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\filemanagerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fileManagerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\WiN11\\Desktop\\30.10.2025\\Assets\\Scripts\\Managers\\fileManagerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\fileManagerHealth.cs",
+              "ToolTip": "C:\\Users\\WiN11\\Desktop\\30.10.2025\\Assets\\Scripts\\Managers\\fileManagerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\fileManagerHealth.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:09:23.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
